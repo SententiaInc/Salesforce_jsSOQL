@@ -3,6 +3,10 @@ Simple Visualforce Example to Execute SOQL via Vanilla Javascript
 
 Examples uses salesfoce connection.js to allow the user to enter test SOQL and see the results live from Salesforce
 
+
+![alt text](https://github.com/SententiaInc/Salesforce_jsSOQL/blob/master/Salesforce_jsSOQL.PNG "Vanilla Javascript SOQL JSON Example")
+
+
 user must include following script in Visualforce page: 
 
 `<script src="../../soap/ajax/37.0/connection.js" type="text/javascript" />`
