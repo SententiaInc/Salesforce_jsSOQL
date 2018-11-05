@@ -6,6 +6,10 @@ Examples uses salesfoce connection.js to allow the user to enter test SOQL and s
 
 ![alt text](https://github.com/SententiaInc/Salesforce_jsSOQL/blob/master/Salesforce_jsSOQL.PNG "Vanilla Javascript SOQL JSON Example")
 
+YouTube Tutorial: 
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=txxWMxc6cRU" target="_blank">
+    <img src="http://img.youtube.com/vi/txxWMxc6cRU/0.jpg" alt="Tutorial" width="240" height="180" border="10" /></a>
+
 
 user must include following script in Visualforce page: 
 
